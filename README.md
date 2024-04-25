@@ -12,11 +12,11 @@ LFICAM [ICCV 2021] https://arxiv.org/pdf/2105.00937.pdf
 # 数据
 /data/PIC  
 |————BM  
-|  |——case1   
-|  |——case2  
+|    |——case1   
+|    |——case2  
 |————GBM  
-|  |——case1  
-|  |——case2  
+|    |——case1  
+|    |——case2  
 ...
 
 # 运行
