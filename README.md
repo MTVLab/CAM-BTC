@@ -11,20 +11,14 @@ LFICAM [ICCV 2021] https://arxiv.org/pdf/2105.00937.pdf
 
 # 数据
 /data/PIC  
-|————BM  
-|    |——case1   
-|    |——case2  
-|————GBM  
-|    |——case1  
-|    |——case2  
+|—— BM  
+|   ----- |—case1   
+|   ----- |—case2  
+|—— GBM  
+|   ----- |—case1  
+|   ----- |—case2  
 ...  
 
-<root dir>/ACN/data/<DATA NAME>/*/case name/* flair.nii.gz  
-<root dir>/ACN/data/<DATA NAME>/*/case name/* t1.nii.gz  
-<root dir>/ACN/data/<DATA NAME>/*/case name/* tlce.nii.gz  
-<root dir>/ACN/data/<DATA NAME>/*/case name/* flair.nii.gz  
-<root dir>/ACN/data/<DATA NAME>/*/case name/* seg.nii.gz  
-# groundtruth
 
 # 运行
 十折交叉验证的json文件在/data目录下   
