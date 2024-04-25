@@ -1,3 +1,3 @@
 # ConvNext_CAM
 
-! [Cow1] (https://github.com/MTVLab/ConvNext_CAM/blob/main/CAM.png "Cow1")
+![Cow1] (https://github.com/MTVLab/ConvNext_CAM/blob/main/CAM.png raw=true "Cow1")
