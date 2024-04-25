@@ -10,8 +10,8 @@ ABN [CVPR 2019] https://arxiv.org/pdf/1812.10025.pdf
 LFICAM [ICCV 2021] https://arxiv.org/pdf/2105.00937.pdf  
 
 # 数据
-data/PIC
-<root dir>/BM/<DATA NAME>/*/case1/* t1.nii.gz
+data/PIC  
+<root dir>/BM/<DATA NAME>/*/case1/* t1c.jpg
 <root dir>/ACN/data/<DATA NAME>/*/case name/* tlce.nii.gz
 <root dir>/ACN/data/<DATA NAME>/*/case name/* flair.nii.gz
 <root dir>/ACN/data/<DATA NAME>/*/case name/* seg.nii.gz
