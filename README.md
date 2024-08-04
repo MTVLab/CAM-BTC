@@ -25,5 +25,5 @@ LFICAM [ICCV 2021] https://arxiv.org/pdf/2105.00937.pdf
 点击train.py即可运行 代码包含较多注释  
 compare下包含七个对比模型 可在train.py中直接调用其接口  
 predict.py中包含推理和绘图代码  
-代码有待优化 了解思路后可自己更改  
+  
 
